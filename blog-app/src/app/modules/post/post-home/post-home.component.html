@@ -1,0 +1,39 @@
+<div>
+<h1 style="text-align: center;">Blog Title</h1>
+<button (click)="fetchPost()" type="button" class="btn btn-primary" >Get Details</button>
+</div>
+<br>
+<div>
+  <h2>{{header}}</h2>
+<table class="table table-bordered">
+    <thead class="thead-dark">
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">Title</th>
+        <th scope="col">Content</th>
+        <th scope="col">Created By</th>
+        <th scope="col">Date Created</th>
+        <th scope="col">Date Updated</th>
+        <th scope="col">Comments</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let post of blogData; let i = index">
+        <td>{{i+1}}</td>
+        <td>{{post.title}}</td>
+        <td>{{post.content}}</td>
+        <td>{{post.createdBy}}</td>
+        <td>{{post.createdDate }}</td>
+        <td>{{post.lastUpdated}}</td>
+        <td>
+          <ng-container *ngFor="let comment of post.comments;">
+          name: {{comment.commentedBy}}
+          comment: {{comment.content}}
+          date: {{comment.date}} 
+          <br>         
+        </ng-container>         
+        </td>
+      </tr>
+    </tbody>
+</table>
+</div>

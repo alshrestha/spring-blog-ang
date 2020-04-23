@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7321ffba-8057-4083-a70a-1be00c8c4afb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/blog-app/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog-app/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-app/e2e/protractor.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-app/e2e/protractor.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-app/e2e/src/app.e2e-spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/blog-app/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-app/e2e/src/app.po.ts" beforeDir="false" afterPath="$PROJECT_DIR$/blog-app/e2e/src/app.po.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-app/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/blog-app/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-app/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/blog-app/src/app/app.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-app/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/blog-app/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-app/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/blog-app/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-app/src/app/modules/post/post-home/post-home.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/blog-app/src/app/modules/post/post-home/post-home.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-app/src/app/modules/post/post-home/post-home.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/blog-app/src/app/modules/post/post-home/post-home.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-app/src/app/modules/post/post.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/blog-app/src/app/modules/post/post.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-app/src/core/core.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/blog-app/src/core/core.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-app/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-app/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-app/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/blog-app/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-app/src/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/blog-app/src/test.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1afuf3oyFkqQblkQC5UheFL5q0S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7321ffba-8057-4083-a70a-1be00c8c4afb" name="Default Changelist" comment="" />
+      <created>1587139069327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587139069327</updated>
+      <workItem from="1587139077954" duration="7000" />
+    </task>
+    <servers />
+  </component>
+</project>
