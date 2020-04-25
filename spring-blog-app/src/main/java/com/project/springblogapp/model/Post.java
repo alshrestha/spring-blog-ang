@@ -18,6 +18,7 @@ public class Post {
     private String createdBy;
     private List<Comment> comments;
 
+
     public String getId() {
         return id;
     }
